@@ -1,0 +1,9 @@
+ 
+- Passos para executar:
+
+	1. javac *.java
+	2. rmiregistry
+	3. java Servidor
+	4. java Cliente
+	
+- Executar 'HELP' para visualizar a sintaxe dos comandos.
